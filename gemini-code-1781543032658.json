@@ -1,0 +1,15 @@
+{
+  "name": "uzy-hub-support",
+  "version": "1.0.0",
+  "description": "Ce système de discussion artificiellement intelligent permet au Uzy Hub Support de devenir indépendant de support Humain pour les petite aide et des discussions en tout genre comme sur \"Où est Kinger, j'ai l'impression qu'il va supprimer Uzy Hub Support après supprimer Caine\".",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Uzy",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.4.5"
+  }
+}
